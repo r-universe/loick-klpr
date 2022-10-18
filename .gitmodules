@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "specieschrom"]
+	path = specieschrom
+	url = https://github.com/loick-klpr/specieschrom
+	shallow = true
+	registered = true
